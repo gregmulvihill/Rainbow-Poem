@@ -1,1 +1,2 @@
-Roses are read?
+Roses are read? 
+No, but they are red.
